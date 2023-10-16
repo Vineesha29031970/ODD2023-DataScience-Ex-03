@@ -141,7 +141,7 @@ sns.boxplot(x='Experience_Years',data=df)
 <img width="865" alt="image" src="https://github.com/Vineesha29031970/ODD2023-DataScience-Ex-03/assets/133136880/8bf37689-a504-4f76-8d6d-d93811a58fa6">
 
 
-<img width="875" alt="image" src="https://github.com/Vineesha29031970/ODD2023-DataScience-Ex-03/assets/133136880/9edaa1cf-e948-4b51-95fa-e7aff1ddba5a">
+<img width="885" alt="image" src="https://github.com/Vineesha29031970/ODD2023-DataScience-Ex-03/assets/133136880/9edaa1cf-e948-4b51-95fa-e7aff1ddba5a">
 
 
 <img width="885" alt="image" src="https://github.com/Vineesha29031970/ODD2023-DataScience-Ex-03/assets/133136880/c8692c67-10b0-4582-8650-9f80cf3c4f31">
