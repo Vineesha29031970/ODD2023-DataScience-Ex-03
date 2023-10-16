@@ -10,29 +10,20 @@ Univariate analysis is basically the simplest form to analyze data. Uni means on
 
 # ALGORITHM:
 
-Step1:
+Step 01:
+Read the given data.
 
-Read the given data set using standard libraries.
-
-Step2:
-
+Step 02:
 Get the information about the data.
 
-Step3:
-
+Step 03
 Remove the null values from the data.
 
-Step4:
-
+Step 04
 Mention the datatypes from the data.
 
-Step5:
-
+Step 05
 Count the values from the data.
-
-Step6:
-
-Do plots like sepallength,species,sepalwidth.
 
 # PROGRAM:
 
@@ -75,8 +66,8 @@ df.kurtosis()
 ```
 
 # Employee Salary CSV File:
-```
 
+```
 import pandas as pd
 df=pd.read_csv("/content/employeesal.csv")
 df
